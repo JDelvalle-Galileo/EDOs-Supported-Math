@@ -19,14 +19,14 @@ And the following functions
 
 #### Notes
 
-  - You can write '\sqrt' to represent the square root of a number. To
+  - You can write `\sqrt` to represent the square root of a number. To
     represent a p-th root you can use `x^{1/p}`.
   - If you do `abc^5` it will be understood as `a*b*c^5`.
   - Complex numbers are not supported yet.
-  - Since the numbers '\pi' and 'e' are so common in mathematical expressions they are treated as constant
+  - Since the numbers `\pi` and `e` are so common in mathematical expressions they are treated as constant
 numbers and not as names of variables.
   - If you write `log(x)` it will be interpreted as the natural logarithm
-of `x`. If you write `\log_n(x)` it will be interpreted as the
+of `x`, or `ln(x)`. If you write `\log_n(x)` it will be interpreted as the
 logarithm of `x` with base `n`.
 
 
